@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CXEX.Studio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc7a80a39d03f56d4a6cd49ded95e5db83050725")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b759759b43c0d9df2f00fac0315c60a5ae3d1b70")]
 [assembly: System.Reflection.AssemblyProductAttribute("CXEX.Studio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CXEX.Studio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
