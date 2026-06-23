@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CXEX.FileSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48fc1b76d1f7a335cee49fbd5017c77094125aa1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc7a80a39d03f56d4a6cd49ded95e5db83050725")]
 [assembly: System.Reflection.AssemblyProductAttribute("CXEX.FileSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CXEX.FileSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

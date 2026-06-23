@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "tQhrgGmImks=",
+  "dgSpecHash": "9qJSNsTXyvY=",
   "success": true,
   "projectFilePath": "C:\\Users\\Aurora\\source\\repos\\CXK_TOOLS\\CXEX.CLI\\CXEX.CLI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Aurora\\.nuget\\packages\\spectre.console\\0.57.0\\spectre.console.0.57.0.nupkg.sha512",
+    "C:\\Users\\Aurora\\.nuget\\packages\\spectre.console.analyzer\\1.0.0\\spectre.console.analyzer.1.0.0.nupkg.sha512",
+    "C:\\Users\\Aurora\\.nuget\\packages\\spectre.console.ansi\\0.57.0\\spectre.console.ansi.0.57.0.nupkg.sha512",
+    "C:\\Users\\Aurora\\.nuget\\packages\\spectre.console.cli\\0.55.0\\spectre.console.cli.0.55.0.nupkg.sha512",
+    "C:\\Users\\Aurora\\.nuget\\packages\\spectre.console.testing\\0.57.0\\spectre.console.testing.0.57.0.nupkg.sha512"
+  ],
   "logs": []
 }

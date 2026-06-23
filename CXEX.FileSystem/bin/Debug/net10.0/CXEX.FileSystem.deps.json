@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v10.0": {
       "CXEX.FileSystem/1.0.0": {
+        "dependencies": {
+          "CXEX.Core": "1.0.0"
+        },
         "runtime": {
           "CXEX.FileSystem.dll": {}
+        }
+      },
+      "CXEX.Core/1.0.0": {
+        "runtime": {
+          "CXEX.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "CXEX.FileSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CXEX.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

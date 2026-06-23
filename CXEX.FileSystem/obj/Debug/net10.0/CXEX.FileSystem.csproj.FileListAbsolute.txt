@@ -1,11 +1,15 @@
 C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.FileSystem\bin\Debug\net10.0\CXEX.FileSystem.deps.json
 C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.FileSystem\bin\Debug\net10.0\CXEX.FileSystem.dll
 C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.FileSystem\bin\Debug\net10.0\CXEX.FileSystem.pdb
+C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.FileSystem\bin\Debug\net10.0\CXEX.Core.dll
+C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.FileSystem\bin\Debug\net10.0\CXEX.Core.pdb
+C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.FileSystem\obj\Debug\net10.0\CXEX.FileSystem.csproj.AssemblyReference.cache
 C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.FileSystem\obj\Debug\net10.0\CXEX.FileSystem.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.FileSystem\obj\Debug\net10.0\CXEX.FileSystem.AssemblyInfoInputs.cache
 C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.FileSystem\obj\Debug\net10.0\CXEX.FileSystem.AssemblyInfo.cs
 C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.FileSystem\obj\Debug\net10.0\CXEX.FileSystem.csproj.CoreCompileInputs.cache
 C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.FileSystem\obj\Debug\net10.0\CXEX.FileSystem.sourcelink.json
+C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.FileSystem\obj\Debug\net10.0\CXEX.Fil.D8145036.Up2Date
 C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.FileSystem\obj\Debug\net10.0\CXEX.FileSystem.dll
 C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.FileSystem\obj\Debug\net10.0\refint\CXEX.FileSystem.dll
 C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.FileSystem\obj\Debug\net10.0\CXEX.FileSystem.pdb

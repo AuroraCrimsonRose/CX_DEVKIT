@@ -1,14 +1,6 @@
-C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.CLI\bin\Debug\net10.0\CXEX.CLI.exe
-C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.CLI\bin\Debug\net10.0\CXEX.CLI.deps.json
-C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.CLI\bin\Debug\net10.0\CXEX.CLI.runtimeconfig.json
-C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.CLI\bin\Debug\net10.0\CXEX.CLI.dll
-C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.CLI\bin\Debug\net10.0\CXEX.CLI.pdb
+C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.CLI\obj\Debug\net10.0\CXEX.CLI.csproj.AssemblyReference.cache
 C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.CLI\obj\Debug\net10.0\CXEX.CLI.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.CLI\obj\Debug\net10.0\CXEX.CLI.AssemblyInfoInputs.cache
 C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.CLI\obj\Debug\net10.0\CXEX.CLI.AssemblyInfo.cs
 C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.CLI\obj\Debug\net10.0\CXEX.CLI.csproj.CoreCompileInputs.cache
-C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.CLI\obj\Debug\net10.0\CXEX.CLI.dll
-C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.CLI\obj\Debug\net10.0\refint\CXEX.CLI.dll
-C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.CLI\obj\Debug\net10.0\CXEX.CLI.pdb
-C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.CLI\obj\Debug\net10.0\CXEX.CLI.genruntimeconfig.cache
-C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.CLI\obj\Debug\net10.0\ref\CXEX.CLI.dll
+C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.CLI\obj\Debug\net10.0\CXEX.CLI.sourcelink.json

@@ -7,14 +7,64 @@
   "targets": {
     ".NETCoreApp,Version=v10.0": {
       "CXEX.Crypto/1.0.0": {
+        "dependencies": {
+          "CXEX.Core": "1.0.0",
+          "CXEX.FileSystem": "1.0.0",
+          "CXEX.FileType": "1.0.0"
+        },
         "runtime": {
           "CXEX.Crypto.dll": {}
+        }
+      },
+      "CXEX.Core/1.0.0": {
+        "runtime": {
+          "CXEX.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CXEX.FileSystem/1.0.0": {
+        "dependencies": {
+          "CXEX.Core": "1.0.0"
+        },
+        "runtime": {
+          "CXEX.FileSystem.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CXEX.FileType/1.0.0": {
+        "dependencies": {
+          "CXEX.Core": "1.0.0"
+        },
+        "runtime": {
+          "CXEX.FileType.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "CXEX.Crypto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CXEX.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CXEX.FileSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CXEX.FileType/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
