@@ -1,0 +1,84 @@
+is_global = true
+build_property.AvaloniaNameGeneratorIsEnabled = true
+build_property.AvaloniaNameGeneratorBehavior = InitializeComponent
+build_property.AvaloniaNameGeneratorDefaultFieldModifier = internal
+build_property.AvaloniaNameGeneratorFilterByPath = *
+build_property.AvaloniaNameGeneratorFilterByNamespace = *
+build_property.AvaloniaNameGeneratorViewFileNamingStrategy = NamespaceAndClassName
+build_property.AvaloniaNameGeneratorAttachDevTools = true
+build_property.MvvmToolkitEnableINotifyPropertyChangingSupport = true
+build_property._MvvmToolkitIsUsingWindowsRuntimePack = false
+build_property.CsWinRTComponent = 
+build_property.CsWinRTAotOptimizerEnabled = 
+build_property.CsWinRTAotWarningLevel = 
+build_property.TargetFramework = net10.0
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v10.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EntryPointFilePath = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CXEX.Studio
+build_property.ProjectDir = C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.Studio\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 10.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/Aurora/source/repos/CXK_TOOLS/CXEX.Studio/App.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Aurora/source/repos/CXK_TOOLS/CXEX.Studio/Dialogs/AboutDialog.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Aurora/source/repos/CXK_TOOLS/CXEX.Studio/Dialogs/BuildSettingsDialog.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Aurora/source/repos/CXK_TOOLS/CXEX.Studio/Dialogs/CreateProjectDialog.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Aurora/source/repos/CXK_TOOLS/CXEX.Studio/Dialogs/DiskLayoutDialog.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Aurora/source/repos/CXK_TOOLS/CXEX.Studio/Dialogs/KeyManagerDialog.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Aurora/source/repos/CXK_TOOLS/CXEX.Studio/MainWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Aurora/source/repos/CXK_TOOLS/CXEX.Studio/Views/BuildView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Aurora/source/repos/CXK_TOOLS/CXEX.Studio/Views/CXFSView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Aurora/source/repos/CXK_TOOLS/CXEX.Studio/Views/DashboardView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Aurora/source/repos/CXK_TOOLS/CXEX.Studio/Views/DiskLayoutView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Aurora/source/repos/CXK_TOOLS/CXEX.Studio/Views/EmulatorView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Aurora/source/repos/CXK_TOOLS/CXEX.Studio/Views/FileTypeInspectorView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Aurora/source/repos/CXK_TOOLS/CXEX.Studio/Views/ImageView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Aurora/source/repos/CXK_TOOLS/CXEX.Studio/Views/KeyManagerView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Aurora/source/repos/CXK_TOOLS/CXEX.Studio/Views/PackageView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Aurora/source/repos/CXK_TOOLS/CXEX.Studio/Views/PartitionEditorView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Aurora/source/repos/CXK_TOOLS/CXEX.Studio/Views/ProjectExplorerView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
