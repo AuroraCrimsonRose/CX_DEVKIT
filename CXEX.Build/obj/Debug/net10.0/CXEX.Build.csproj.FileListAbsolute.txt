@@ -5,6 +5,7 @@ C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.Build\obj\Debug\net10.0\CXEX.Build.G
 C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.Build\obj\Debug\net10.0\CXEX.Build.AssemblyInfoInputs.cache
 C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.Build\obj\Debug\net10.0\CXEX.Build.AssemblyInfo.cs
 C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.Build\obj\Debug\net10.0\CXEX.Build.csproj.CoreCompileInputs.cache
+C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.Build\obj\Debug\net10.0\CXEX.Build.sourcelink.json
 C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.Build\obj\Debug\net10.0\CXEX.Build.dll
 C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.Build\obj\Debug\net10.0\refint\CXEX.Build.dll
 C:\Users\Aurora\source\repos\CXK_TOOLS\CXEX.Build\obj\Debug\net10.0\CXEX.Build.pdb
